@@ -1,0 +1,6 @@
+$font-directory: "../fonts";
+
+@include font($font_directory, 'Roboto', 'Roboto-Light', 300, 'normal');
+@include font($font_directory, 'Roboto', 'Roboto-Regular', 'normal', 'normal');
+@include font($font_directory, 'Roboto', 'Roboto-Medium', 500, 'normal');
+@include font($font_directory, 'Roboto', 'Roboto-Bold', 'bold', 'normal');

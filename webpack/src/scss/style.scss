@@ -1,0 +1,22 @@
+// LIBS
+@import "~swiper/swiper-bundle.css";
+
+// SPECIFICATION
+@import "spec/variables";
+@import "spec/mixins";
+@import "spec/fonts";
+@import "spec/global";
+@import "spec/visually-hidden";
+
+// COMPONENTS
+@import "components/container";
+@import "components/btn";
+@import "components/socials";
+@import "components/hamburger";
+@import "components/nav";
+@import "components/header";
+@import "components/footer";
+@import "components/wow";
+
+// HOMEPAGE
+@import "pages/home/banner";
